@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Project R.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>686B4E8C807717FD323497D87AD6C60984331E9A</string>
+				<key>dateExpires</key>
+				<string>4/18/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>E7D45YF275.com.drfalcoew.Project-R</string>
+				<key>com.apple.developer.nfc.readersession.formats</key>
+				<array>
+					<string>NDEF</string>
+					<string>TAG</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>E7D45YF275</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Project R.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>00626c3b-4487-449e-bc11-52abbc930b86</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.drfalcoew.Project-R</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>E7D45YF275</string>
+				<key>name</key>
+				<string>Drew Foster</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
